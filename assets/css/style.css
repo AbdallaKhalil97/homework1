@@ -165,8 +165,9 @@ p {
     font-size: 20px;
 }
 .navBar{
-    display: inline-block;
     right: 0%;
+    float: right;
+    margin-top: 45px;
 }
 li{
     display: inline-block;
