@@ -53,11 +53,12 @@ p {
     float: left;
     margin-right: 25px;
     max-width: 150px;
-    max-height: 150px;
+    /* max-height: 150px; */
 }
 .float-right {
     float: right;
     margin-left: 25px;
+    max-width: 150px;
 }
 .content {
     width: 75%;
